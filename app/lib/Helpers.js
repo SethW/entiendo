@@ -5,17 +5,11 @@ Helpers.randomInt = function(min, max){
 };
 
 Helpers.congratsMessages = [
-  'You got it!',
-  'That is right!',
   'Correct!',
-  'Way to go!'
 ];
 
 Helpers.incorrectMessages = [
-  'Sorry. ',
-  'That is incorrect. ',
-  'Nope. ',
-
+  'Incorrect. ',
 ];
 
 

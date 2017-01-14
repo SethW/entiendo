@@ -23,3 +23,267 @@ phrases:
       - I have a grey elephant
       - I have a gray elephant
     difficulty: 2
+  - _id: '4'
+    es:
+      - Las niñas
+    en:
+      - The kids
+      - The children
+      - The girls
+    difficulty: 1
+  - _id: '5'
+    es:
+      - Ella es un niña
+    en:
+      - She is a kid
+      - She is a child
+      - She is a girl
+    difficulty: 1
+  - _id: '6'
+    es:
+      - Ello es un niño
+    en:
+      - He is a kid
+      - He is a child
+      - He is a boy
+    difficulty: 1
+  - _id: '7'
+    es:
+      - Ellos son niños
+      - Ellas son niñas
+    en:
+      - They are kids
+      - They are children
+    difficulty: 1
+  - _id: '8'
+    es:
+      - La mujer y el hombre
+    en:
+      - The woman and the man
+    difficulty: 1
+  - _id: '9'
+    es:
+      - Los niños
+    en:
+      - The kids
+      - The boys
+      - The children
+    difficulty: 1
+  - _id: '10'
+    es:
+      - Él come un manzana
+    en:
+      - He eats an apple
+    difficulty: 1
+  - _id: '11'
+    es:
+      - Ella come pan
+    en:
+      - She eats bread
+    difficulty: 1
+  - _id: '12'
+    es:
+      - Ella es una niña
+    en:
+      - She is a girl
+    difficulty: 1
+  - _id: '13'
+    es:
+      - Él es un niño
+    en:
+      - He is a boy
+    difficulty: 1
+  - _id: '14'
+    es:
+      - Yo como pan y manzanas
+      - Como pan y manzanas
+    en:
+      - I eat bread and apples
+    difficulty: 2
+  - _id: '15'
+    es:
+      - Él bebe leche
+    en:
+      - He drinks milk
+    difficulty: 1
+  - _id: '16'
+    es:
+      - Ella bebe agua
+    en:
+      - She drinks water
+    difficulty: 1
+  - _id: '17'
+    es:
+      - Bebo agua
+    en:
+      - I drink water
+    difficulty: 1
+  - _id: '18'
+    es:
+      - Como pan
+    en:
+      - I eat bread
+    difficulty: 1
+  - _id: '19'
+    es:
+      - Buenas noches
+    en:
+      - Goodnight
+      - Good night
+    difficulty: 1
+  - _id: '20'
+    es:
+      - Adiós
+    en:
+      - Bye
+      - Good bye
+    difficulty: 1
+  - _id: '21'
+    es:
+      - Gracias
+    en:
+      - Thanks
+      - Thank you
+    difficulty: 1
+  - _id: '22'
+    es:
+      - Si, gracias
+    en:
+      - Yes, thanks
+      - Yes, thank you
+    difficulty: 1
+  - _id: '23'
+    es:
+      - Por favor
+    en:
+      - Please
+    difficulty: 1
+  - _id: '24'
+    es:
+      - Perdón
+    en:
+      - Sorry
+      - Excuse me
+    difficulty: 1
+  - _id: '25'
+    es:
+      - Hablo inglés
+    en:
+      - I speak English
+    difficulty: 1
+  - _id: '26'
+    es:
+      - ¿Habla Inglés?
+    en:
+      - Do you speak English?
+    difficulty: 1
+  - _id: '27'
+    es:
+      - ¿Habla Español?
+    en:
+      - Do you speak Spanish?
+    difficulty: 1
+  - _id: '27'
+    es:
+      - Si, hablo Español
+      - Si, yo hablo Español
+    en:
+      - Yes I speak Spanish
+    difficulty: 1
+  - _id: '28'
+    es:
+      - No, no hablo Español
+    en:
+      - No I don't speak Spanish
+      - No I do not speak Spanish
+    difficulty: 1
+  - _id: '29'
+    es:
+      - No, no hablo Inglés
+    en:
+      - No I don't speak English
+      - No I do not speak English
+    difficulty: 1
+  - _id: '30'
+    es:
+      - Disculpe
+    en:
+      - Sorry
+      - Excuse me
+    difficulty: 1
+  - _id: '31'
+    es:
+      - Nosotros comemos pan
+      - Comemos pan
+    en:
+      - We eat bread
+    difficulty: 1
+  - _id: '32'
+    es:
+      - Nosotros somos niños
+      - somos niños
+    en:
+      - We are kids
+      - We are boys
+      - We are children
+    difficulty: 1
+  - _id: '33'
+    es:
+      - Nosotros bebemos agua
+      - Bebemos agua
+    en:
+      - We drink water
+    difficulty: 1
+  - _id: '34'
+    es:
+      - Yo leo libros
+      - Leo libros
+    en:
+      - I read books
+    difficulty: 1
+  - _id: '35'
+    es:
+      - Ellos leen libros
+      - Ellas leen libros
+    en:
+      - They read books
+    difficulty: 2
+  - _id: '36'
+    es:
+      - Él escribe una carta
+    en:
+      - He writes a letter
+    difficulty: 2
+  - _id: '37'
+    es:
+      - Yo leo la carta
+      - Leo la carta
+    en:
+      - I read the letter
+    difficulty: 2
+  - _id: '38'
+    es:
+      - Una persona escribe la carta
+    en:
+      - A person writes the letter
+    difficulty: 2
+  - _id: '39'
+    es:
+      - Una persona escribe la carta
+    en:
+      - A person writes the letter
+    difficulty: 2
+  - _id: '40'
+    es:
+      - Lees la carta
+    en:
+      - Read the letter
+      - You read the letter
+    difficulty: 2
+  - _id: '41'
+    es:
+      - Lees la carta
+    en:
+      - Read the letter
+      - You read the letter
+    difficulty: 2

@@ -1,13 +1,18 @@
 <template name="question">
-  <h2>Translate this!</h2>
-  {{pickPhrase this.es}}
-  <h4>{{getPhrase this.es}}</h4>
-  <voice-player id="voice-es" text="{{getPhrase this.es}}" accent="es-ES" autoplay></voice-player>
-  <input onclick='responsiveVoice.speak("{{getPhrase this.es}}", "Spanish Latin American Female", {rate: 1});' type='button' id='listenPhrase' value='Listen' />
-  <form id="translateForm">
-    <input type="hidden" id="phraseId" value="{{this._id}}" />
-    <voice-recognition id="recognition-element"></voice-recognition>
-    <textarea id="translateInput"></textarea>
-    <input type="submit" value="Translate" />
-  </form>
+  <div class="question">
+    <h2>Translate this!</h2>
+    <div class="settings">
+      <h5>Difficulty: {{getDifficulty}}</h5>
+    </div>
+    {{pickPhrase this.es}}
+    <h4>{{getPhrase this.es}}</h4>
+    {{invokeAfterLoad}}
+    <a href="#" class="btn btn-default" data-text='{{getPhrase this.es}}' id='listenPhrase'>Listen</a>
+    <form id="translateForm">
+      <input type="hidden" id="phraseId" value="{{this._id}}" />
+      <voice-recognition id="recognition-element"></voice-recognition>
+      <textarea id="translateInput"></textarea>
+      <input type="submit" value="Translate" />
+    </form>
+  </div>
 </template>
