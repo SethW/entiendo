@@ -183,13 +183,6 @@ phrases:
     en:
       - Do you speak Spanish?
     difficulty: 1
-  - _id: '27'
-    es:
-      - Si, hablo Español
-      - Si, yo hablo Español
-    en:
-      - Yes I speak Spanish
-    difficulty: 1
   - _id: '28'
     es:
       - No, no hablo Español
@@ -287,3 +280,10 @@ phrases:
       - Read the letter
       - You read the letter
     difficulty: 2
+  - _id: '42'
+    es:
+      - Si, hablo Español
+      - Si, yo hablo Español
+    en:
+      - Yes I speak Spanish
+    difficulty: 1
