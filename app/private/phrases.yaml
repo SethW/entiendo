@@ -287,3 +287,683 @@ phrases:
     en:
       - Yes I speak Spanish
     difficulty: 1
+  - _id: '43'
+    es:
+      - Somos altos y fuertes.
+    en:
+      - We are tall and strong
+    difficulty: 5
+  - _id: '44'
+    es:
+      - Ella es capaz
+    en:
+      - She is capable
+    difficulty: 5
+  - _id: '45'
+    es:
+      - Mis hermanas son distintas
+    en:
+      - My sisters are different
+    difficulty: 5
+  - _id: '46'
+    es:
+      - Es un dormitorio seguro
+    en:
+      - It is a safe room
+      - It is a safe dormitory
+    difficulty: 5
+  - _id: '47'
+    es:
+      - Los colores principales
+    en:
+      - The main colors
+    difficulty: 5
+  - _id: '48'
+    es:
+      - Él es mi único hermano.
+    en:
+      - He is my only brother.
+    difficulty: 5
+  - _id: '49'
+    es:
+      - Yo veo la televisión local
+      - Veo la televisión local
+    en:
+      - I watch the local television
+      - I watch the local TV
+    - I watch local television
+    - I watch local TV
+    difficulty: 5
+  - _id: '50'
+    es:
+      - Es un caballo fuerte
+    en:
+      - It is a strong horse
+    difficulty: 5
+  - _id: '51'
+    es:
+      - Los actores principales
+    en:
+      - The main actors
+    difficulty: 5
+  - _id: '52'
+    es:
+      - La cocina no es segura
+    en:
+      - The kitchen is not safe
+    difficulty: 5
+  - _id: '53'
+    es:
+      - Ella es tu única hermana
+    en:
+      - She is your only sister
+    difficulty: 5
+  - _id: '54'
+    es:
+      - Yo escribo mis propias cartas
+    en:
+      - I write my own letters
+    difficulty: 5
+  - _id: '55'
+    es:
+      - No somos actores profesionales
+    en:
+      - We are not professional actors
+    difficulty: 5
+  - _id: '56'
+    es:
+      - No tengo suficiente dinero
+    en:
+      - I don't have enough money
+      - I do not have enough money
+    difficulty: 5
+  - _id: '57'
+    es:
+      - Sí es simple
+    en:
+      - Yes it is simple
+    difficulty: 5
+  - _id: '58'
+    es:
+      - ¿Mi propio hijo?
+    en:
+      - My own son
+    difficulty: 5
+  - _id: '59'
+    es:
+      - ¿Qué es imposible?
+    en:
+      - What is impossible?
+    difficulty: 5
+  - _id: '60'
+    es:
+      - Las siguientes semanas
+    en:
+      - The following weeks
+      - The next weeks
+    difficulty: 5
+  - _id: '61'
+    es:
+      - Un espejo es suficiente
+    en:
+      - A mirror is enough
+      - A mirror is sufficient
+      - One mirror is enough
+      - One mirror is sufficient
+    difficulty: 5
+  - _id: '62'
+    es:
+      - Yo tengo suficiente ropa
+    en:
+      - I have enough clothes
+      - I have sufficient clothes
+    difficulty: 5
+  - _id: '63'
+    es:
+      - Ella es la peor estudiante
+    en:
+      - She is the worst student
+    difficulty: 5
+  - _id: '64'
+    es:
+      - Tengo mis propios gatos
+    en:
+      - I have my own cats
+    difficulty: 5
+  - _id: '64'
+    es:
+      - Es imposible
+    en:
+      - It is impossible
+    difficulty: 5
+  - _id: '65'
+    es:
+      - No es simple
+    en:
+      - It is not simple
+    difficulty: 5
+  - _id: '66'
+    es:
+      - No es simple
+    en:
+      - It is not simple
+    difficulty: 5
+  - _id: '67'
+    es:
+      - No quiero tanta carne
+    en:
+      - I do not want so much meat
+    difficulty: 5
+  - _id: '68'
+    es:
+      - No es agua clara
+    en:
+      - It is not clear water
+    difficulty: 5
+  - _id: '69'
+    es:
+      - Es una cena familiar
+    en:
+      - It is a family dinner
+    difficulty: 5
+  - _id: '70'
+    es:
+      - Yo soy normal
+    en:
+      - I am normal
+    difficulty: 5
+  - _id: '71'
+    es:
+      - Los niños no son responsables
+    en:
+      - The kids are not responsible
+      - The children are not responsible
+      - The boys are not responsible
+    difficulty: 5
+  - _id: '72'
+    es:
+      - La comida es mala
+    en:
+      - The food is bad
+    difficulty: 5
+  - _id: '73'
+    es:
+      - Tenemos tantos colores
+    en:
+      - We have so many colors
+    difficulty: 5
+  - _id: '74'
+    es:
+      - Porque soy un hombre malo
+    en:
+      - Because I am a bad man
+    difficulty: 5
+  - _id: '75'
+    es:
+      - Yo soy pobre
+      - Soy pobre
+    en:
+      - I am poor
+    difficulty: 5
+  - _id: '76'
+    es:
+      - Yo soy pobre
+      - Soy pobre
+    en:
+      - I am poor
+    difficulty: 5
+  - _id: '77'
+    es:
+      - No, no es justo
+    en:
+      - No it is not fair
+      - No it is not right
+      - No it is not just
+    difficulty: 5
+  - _id: '78'
+    es:
+      - ¿Ellos son ricos?
+    en:
+      - They are rich?
+      - Are they rich?
+    difficulty: 5
+  - _id: '79'
+    es:
+      - Somos las próximas
+    en:
+      - We are next
+      - We are the next ones
+    difficulty: 5
+  - _id: '80'
+    es:
+      - Es una semana histórica
+    en:
+      - It is a historic week
+      - It is a historical week
+    difficulty: 5
+  - _id: '81'
+    es:
+      - El té es natural
+    en:
+      - The tea is natural
+    difficulty: 5
+  - _id: '82'
+    es:
+      - Los diarios son recientes
+    en:
+      - The newspapers are recent
+    difficulty: 5
+  - _id: '83'
+    es:
+      - La próxima hora
+    en:
+      - The next hour
+    difficulty: 5
+  - _id: '84'
+    es:
+      - Eres rico
+    en:
+      - You are rich
+      - You are wealth
+    difficulty: 5
+  - _id: '85'
+    es:
+      - Nuestro próximo maestro es un hombre.
+    en:
+      - Our next teacher is a man
+    difficulty: 5
+  - _id: '86'
+    es:
+      - Los colores no son naturales
+    en:
+      - The colors are not natural
+    difficulty: 5
+  - _id: '87'
+    es:
+      - Es un minuto histórico
+    en:
+      - It is a historical minute
+      - It is a historic minute
+    difficulty: 5
+  - _id: '88'
+    es:
+      - Sí pero es reciente
+    en:
+      - Yes but it is recent
+    difficulty: 5
+  - _id: '89'
+    es:
+      - Tus padres son ricos
+    en:
+      - Your fathers are rich
+      - Your parents are rich
+    difficulty: 5
+  - _id: '90'
+    es:
+      - Hoy es un día histórico
+    en:
+      - Today is a historic day
+    difficulty: 5
+  - _id: '91'
+    es:
+      - La lámpara es cara
+    en:
+      - The lamp is expensive
+    difficulty: 5
+  - _id: '92'
+    es:
+      - Los perros son animales inteligentes
+    en:
+      - The dogs are smart animals
+      - Dogs are smart animals
+    difficulty: 5
+  - _id: '93'
+    es:
+      - Él y yo caminamos juntos
+    en:
+      - He and i walk together
+    difficulty: 5
+  - _id: '94'
+    es:
+      - La noche pasada
+    en:
+      - Last night
+      - The last night
+    difficulty: 5
+  - _id: '95'
+    es:
+      - Él habla rápido
+    en:
+      - He talks fast
+      - He speaks quickly
+    difficulty: 5
+  - _id: '96'
+    es:
+      - La falda es barata
+    en:
+      - The skirt is cheap
+    difficulty: 5
+  - _id: '97'
+    es:
+      - Es tradicional
+    en:
+      - It is traditional
+    difficulty: 5
+  - _id: '98'
+    es:
+      - Él lleva un sombrero
+    en:
+      - He wears a hat
+    difficulty: 6
+  - _id: '99'
+    es:
+      - Los perros juegan.
+    en:
+      - The dogs play
+    difficulty: 6
+  - _id: '100'
+    es:
+      - Nosotras encontramos comida
+    en:
+      - We found food
+    difficulty: 6
+  - _id: '101'
+    es:
+      - Yo sé
+    en:
+      - I know
+    difficulty: 6
+  - _id: '102'
+    es:
+      - No, él sigue
+    en:
+      - No he follows
+    difficulty: 6
+  - _id: '103'
+    es:
+      - Las niñas estudian juntas
+    en:
+      - The girls study together
+    difficulty: 6
+  - _id: '104'
+    es:
+      - Tú llevas un vestido
+    en:
+      - You wear a dress
+    difficulty: 6
+  - _id: '105'
+    es:
+      - Usted sabe quién soy
+    en:
+      - You know who I am
+    difficulty: 6
+  - _id: '106'
+    es:
+      - El niño juega solo
+    en:
+      - The kid plays alone
+      - The boy plays alone
+    difficulty: 6
+  - _id: '107'
+    es:
+      - Hablamos porque sabemos
+    en:
+      - We speak because we know
+      - We talk because we know
+    difficulty: 6
+  - _id: '108'
+    es:
+      - Las mujeres locales llevan vestidos negros
+    en:
+      - The local women wear black dresses
+    difficulty: 6
+  - _id: '109'
+    es:
+      - Los doctores no saben por qué
+    en:
+      - The doctors do not know why
+    difficulty: 6
+  - _id: '110'
+    es:
+      - Yo juego con Luis
+    en:
+      - I play with Lewis
+    difficulty: 6
+  - _id: '111'
+    es:
+      - Yo miro por la ventana
+    en:
+      - I look from the window
+      - I look through the window
+    difficulty: 6
+  - _id: '112'
+    es:
+      - La mujer prueba el arroz
+    en:
+      - The woman tests the rice
+      - The woman tries the rice
+    difficulty: 6
+  - _id: '113'
+    es:
+      - Él ayuda al maestro
+    en:
+      - He helps the teacher
+    difficulty: 6
+  - _id: '114'
+    es:
+      - Él muestra sus cartas
+    en:
+      - He shows his letters
+      - He shows his cards
+    difficulty: 6
+  - _id: '115'
+    es:
+      - ¿Por qué no vienes con nosotros?
+    en:
+      - Why don't you come with us
+      - Why do not you come with us?
+    difficulty: 6
+  - _id: '116'
+    es:
+      - El cocinero pesa la carne.
+    en:
+      - The cook weighs the meat
+    difficulty: 6
+  - _id: '117'
+    es:
+      - Mi tía está sola
+    en:
+      - My aunt is alone
+    difficulty: 6
+  - _id: '118'
+    es:
+      - Ella recuerda tu camisa.
+    en:
+      - She remembers you shirt
+    difficulty: 6
+  - _id: '119'
+    es:
+      - Ella busca comida
+    en:
+      - She looks for food
+    difficulty: 6
+  - _id: '120'
+    es:
+      - Ella cierra la puerta
+    en:
+      - She closes the door
+    difficulty: 6
+  - _id: '121'
+    es:
+      - Él aparece en la noche
+    en:
+      - He appears in the night
+      - He appears at night
+    difficulty: 6
+  - _id: '122'
+    es:
+      - Él vuelve
+    en:
+      - He returns
+    difficulty: 6
+  - _id: '123'
+    es:
+      - Ella toma mi azúcar
+    en:
+      - She takes my sugar
+    difficulty: 6
+  - _id: '124'
+    es:
+      - Pienso en ustedes
+    en:
+      - I think of you
+    difficulty: 6
+  - _id: '125'
+    es:
+      - Él visita la familia de ella
+    en:
+      - He visits her family
+    difficulty: 6
+  - _id: '126'
+    es:
+      - Ella acepta
+    en:
+      - She accepts
+    difficulty: 6
+  - _id: '127'
+    es:
+      - Yo respeto a mi padre.
+    en:
+      - I respect my father
+      - I respect my dad
+    difficulty: 6
+  - _id: '128'
+    es:
+      - Los zapatos no caben
+    en:
+      - The shoes do not fit
+      - The shoes don't fit
+    difficulty: 6
+  - _id: '129'
+    es:
+      - Ella comienza mañana
+    en:
+      - She starts tomorrow
+      - She begins tomorrow
+    difficulty: 6
+  - _id: '130'
+    es:
+      - El teléfono no sirve
+    en:
+      - The telephone doesn't work
+      - The telephone does not work
+      - The phone doesn't work
+      - The phone does not work
+    difficulty: 6
+  - _id: '131'
+    es:
+      - Nosotros conocemos a nuestra madre
+    en:
+      - We know our mother
+      - We know our mom
+    difficulty: 6
+  - _id: '132'
+    es:
+      - Él cuenta los emparedados
+    en:
+      - He counts the sandwiches
+    difficulty: 6
+  - _id: '133'
+    es:
+      - Septiembre acaba
+    en:
+      - September ends
+    difficulty: 6
+  - _id: '134'
+    es:
+      - Sí, parece familiar
+    en:
+      - Yes it seems familiar
+    difficulty: 6
+  - _id: '135'
+    es:
+      - Usted entrega la comida
+    en:
+      - You deliver the food
+    difficulty: 6
+  - _id: '136'
+    es:
+      - La policía culpa al actor
+    en:
+      - The police blame the actor
+    difficulty: 6
+  - _id: '137'
+    es:
+      - Mamá, entra, por favor
+    en:
+      - Mom please come in
+    difficulty: 6
+  - _id: '138'
+    es:
+      - Mamá, entra, por favor
+    en:
+      - Mom please come in
+      - Mom come in please
+    difficulty: 6
+  - _id: '139'
+    es:
+      - Ellos no important
+    en:
+      - They are not important
+      - They don't matter
+      - They do not matter
+    difficulty: 6
+  - _id: '140'
+    es:
+      - Él incluye a su madre
+    en:
+      - He includes your mother
+      - He includes your mom
+      - He includes his mother
+      - He includes his mom
+      - He includes her mother
+      - He includes her mom
+    difficulty: 6
+  - _id: '141'
+    es:
+      - No, el color no importa
+    en:
+      - No the color doesn't matter
+      - No the color does not matter
+      - No the color isn't important
+      - No the color is not important
+    difficulty: 6
+  - _id: '142'
+    es:
+      - Yo entrego comida
+    en:
+      - I deliver food
+    difficulty: 6
+  - _id: '143'
+    es:
+      - Él entra solo
+    en:
+      - He goes in alone
+      - He enters alone
+      - He goes in by himself
+      - He enters by himself
+    difficulty: 6
+  - _id: '144'
+    es:
+      - La madre culpa al hijo
+    en:
+      - The mom blames the son
+      - The mother blames the son
+    difficulty: 6
+  - _id: '145'
+    es:
+      - La madre culpa al hijo
+    en:
+      - The mom blames the son
+      - The mother blames the son
+    difficulty: 6
