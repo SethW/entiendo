@@ -331,8 +331,8 @@ phrases:
     en:
       - I watch the local television
       - I watch the local TV
-    - I watch local television
-    - I watch local TV
+      - I watch local television
+      - I watch local TV
     difficulty: 5
   - _id: '50'
     es:
