@@ -2,19 +2,19 @@
 phrases:
   - _id: '1'
     es:
+      - Hola
+    en:
+      - Hi
+      - Hello
+    difficulty: 1
+  - _id: '2'
+    es:
       - Tengo un perro
       - Yo tengo un perro
       - Tengo un perra
       - Yo tengo un perra
     en:
       - I have a dog
-    difficulty: 1
-  - _id: '2'
-    es:
-      - Hola
-    en:
-      - Hi
-      - Hello
     difficulty: 1
   - _id: '3'
     es:
@@ -967,3 +967,251 @@ phrases:
       - The mom blames the son
       - The mother blames the son
     difficulty: 6
+  - _id: '146'
+    es:
+      - Él abre la puerta
+    en:
+      - He opens the door
+    difficulty: 6
+  - _id: '147'
+    es:
+      - Nosotros llegamos mañana
+    en:
+      - We arrive tomorrow
+    difficulty: 6
+  - _id: '148'
+    es:
+      - Él requiere más comida
+    en:
+      - He requires more food
+      - He needs more food
+    difficulty: 6
+  - _id: '149'
+    es:
+      - El niño dice hola
+    en:
+      - The boy says hello
+      - The boy says hi
+    difficulty: 6
+  - _id: '150'
+    es:
+      - Ellos abren los libros
+    en:
+      - They open the books
+    difficulty: 6
+  - _id: '151'
+    es:
+      - Mi marido llega tarde
+    en:
+      - My husband arrives late
+    difficulty: 6
+  - _id: '152'
+    es:
+      - Esta fruta no es roja
+    en:
+      - This fruit is not red
+    difficulty: 6
+  - _id: '153'
+    es:
+      - Aquellas niñas
+    en:
+      - Those girls
+      - Those girls over there
+    difficulty: 6
+  - _id: '154'
+    es:
+      - Cada oso come pescado
+    en:
+      - Every bear eats fish
+    difficulty: 6
+  - _id: '155'
+    es:
+      - Unos niños beben agua
+    en:
+      - Some boys drink water
+      - Some children drink water
+      - Some kids drink water
+    difficulty: 6
+  - _id: '156'
+    es:
+      - Estas cartas son personales
+    en:
+      - These letters are personal
+    difficulty: 6
+  - _id: '157'
+    es:
+      - ¿Quién es aquel hombre?
+    en:
+      - Who is that man?
+    difficulty: 6
+  - _id: '158'
+    es:
+      - Aquellos hombres son mis hermanos.
+    en:
+      - Those men over there are my brothers
+      - Those men are my brothers
+    difficulty: 6
+  - _id: '159'
+    es:
+      - Antonio quiere una fresa
+    en:
+      - Antonio wants a strawberry
+    difficulty: 6
+  - _id: '160'
+    es:
+      - Ésta es mi hija
+    en:
+      - This is my daughter
+    difficulty: 6
+  - _id: '161'
+    es:
+      - Mi hija tiene muchos zapatos
+    en:
+      - My daughter has many shoes
+      - My daughter has lots of shoes
+    difficulty: 6
+  - _id: '162'
+    es:
+      - Ella tiene algunos libros
+    en:
+      - She has some books
+    difficulty: 6
+  - _id: '163'
+    es:
+      - Tengo pocos libros
+    en:
+      - I have a few books
+    difficulty: 6
+  - _id: '164'
+    es:
+      - Quiero ambas faldas
+    en:
+      - I want both skirts
+      - I want both of the skirts
+    difficulty: 6
+  - _id: '165'
+    es:
+      - Toda la comida
+    en:
+      - All the food
+      - All of the food
+    difficulty: 6
+  - _id: '166'
+    es:
+      - Tengo unos cuantos gatos
+    en:
+      - I have a few cats
+    difficulty: 6
+  - _id: '167'
+    es:
+      - ¿Tiene otro baño?
+    en:
+      - Do you have another bathroom
+    difficulty: 6
+  - _id: '168'
+    es:
+      - En cualquier momento
+    en:
+      - At any moment
+      - At any time
+    difficulty: 6
+  - _id: '170'
+    es:
+      - ¿Qué hora es?
+    en:
+      - What hour is it
+      - What time is it
+    difficulty: 6
+  - _id: '171'
+    es:
+      - No tengo ningún gato
+    en:
+      - I don't have any cat
+      - I don't have a cat
+      - I do not have any cat
+      - I do not have a cat
+    difficulty: 6
+  - _id: '172'
+    es:
+      - Ella no recuerda quién yo soy
+    en:
+      - She does not remember who I am
+    difficulty: 6
+  - _id: '173'
+    es:
+      - El zapato
+    en:
+      - The shoe
+    difficulty: 3
+  - _id: '174'
+    es:
+      - El pantalón es azul
+    en:
+      - The pants are blue
+    difficulty: 3
+  - _id: '175'
+    es:
+      - Mis camisas
+    en:
+      - My shirts
+    difficulty: 3
+  - _id: '176'
+    es:
+      - Mis zapatos son amarillos
+    en:
+      - My shoes are yellow
+    difficulty: 3
+  - _id: '177'
+    es:
+      - Necesito una camisa blanca
+    en:
+      - I need a white shirt
+    difficulty: 3
+  - _id: '178'
+    es:
+      - Las faldas son negras
+    en:
+      - The skirts are black
+    difficulty: 3
+  - _id: '179'
+    es:
+      - Mis botas
+    en:
+      - My boots
+    difficulty: 3
+  - _id: '180'
+    es:
+      - Sí, su camisa es blanca
+    en:
+      - Yes, your shirt is white
+    difficulty: 3
+  - _id: '181'
+    es:
+      - Las botas no son verdes
+    en:
+      - The boots are not green
+    difficulty: 3
+  - _id: '182'
+    es:
+      - Los zapatos son azules
+    en:
+      - The shoes are blue
+    difficulty: 3
+  - _id: '183'
+    es:
+      - Sin aceite
+    en:
+      - Without oil
+    difficulty: 3
+  - _id: '184'
+    es:
+      - El vestido es rojo
+    en:
+      - The dress is red
+    difficulty: 3
+  - _id: '185'
+    es:
+      - El perro negro bebe agua
+    en:
+      - The black dog drinks water
+    difficulty: 3
