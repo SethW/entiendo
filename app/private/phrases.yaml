@@ -1215,3 +1215,227 @@ phrases:
     en:
       - The black dog drinks water
     difficulty: 3
+  - _id: '186'
+    es:
+      - El pescado es grande
+    en:
+      - The fish is big
+      - The fish is large
+    difficulty: 4
+  - _id: '187'
+    es:
+      - Mi vestido corto es azul y blanco
+    en:
+      - My short dress is blue and white
+    difficulty: 4
+  - _id: '188'
+    es:
+      - Las manzanas son pequeñas
+    en:
+      - The apples are small
+    difficulty: 4
+  - _id: '189'
+    es:
+      - Los hombres son bajos
+    en:
+      - The men are short
+    difficulty: 4
+  - _id: '190'
+    es:
+      - Mis pantalones son largos
+    en:
+      - My pants are long
+      - My pants are large
+    difficulty: 4
+  - _id: '191'
+    es:
+      - Necesito un gran emparedado
+    en:
+      - I need a big sandwich
+    difficulty: 4
+  - _id: '192'
+    es:
+      - Soy alto
+    en:
+      - I am tall
+    difficulty: 4
+  - _id: '193'
+    es:
+      - La naranja es enorme
+    en:
+      - The orange is huge
+    difficulty: 4
+  - _id: '194'
+    es:
+      - La mujer es baja
+    en:
+      - The woman is short
+    difficulty: 4
+  - _id: '195'
+    es:
+      - Mis zapatos son enormes
+    en:
+      - My shoes are huge
+    difficulty: 4
+  - _id: '196'
+    es:
+      - El libro no es grande
+    en:
+      - The book is not large
+      - The book is not big
+    difficulty: 4
+  - _id: '197'
+    es:
+      - Mi tamaño es pequeño
+    en:
+      - My size is small
+    difficulty: 4
+  - _id: '198'
+    es:
+      - Tú eres un hombre
+      - Usted es un hombre
+    en:
+      - You are a man
+    difficulty: 4
+  - _id: '199'
+    es:
+      - Tú eres un hombre
+      - Usted es un hombre
+    en:
+      - You are a man
+    difficulty: 4
+  - _id: '200'
+    es:
+      - Sí tengo un perro pequeño
+    en:
+      - Yes I have a small dog
+      - Yes I have a little dog
+    difficulty: 4
+  - _id: '201'
+    es:
+      - Quiero un gran elefante
+    en:
+      - I want a big elephant
+    difficulty: 4
+  - _id: '202'
+    es:
+      - Una piscina
+    en:
+      - A pool
+    difficulty: 4
+  - _id: '203'
+    es:
+      - El hombre come en la mesa
+    en:
+      - The man eats at the table
+    difficulty: 4
+  - _id: '204'
+    es:
+      - La silla es pequeña
+    en:
+      - The chair is small
+      - The chair is little
+      - The seat is small
+      - The seat is little
+    difficulty: 4
+  - _id: '205'
+    es:
+      - ¿Cuántos vasos?
+    en:
+      - How many glasses
+      - How many cups
+    difficulty: 4
+  - _id: '206'
+    es:
+      - Tengo dinero en mi escritorio
+    en:
+      - I have money in my desk
+    difficulty: 4
+  - _id: '207'
+    es:
+      - In the kitchen
+    en:
+      - En la cocina
+    difficulty: 4
+  - _id: '208'
+    es:
+      - El bebé duerme en la cuna
+    en:
+      - The baby sleeps in the crib
+      - The baby sleeps in the cradle
+    difficulty: 4
+  - _id: '209'
+    es:
+      - Mi mamá cocina para mi papá
+    en:
+      - My mom cooks for my dad
+      - My mother cooks for my dad
+      - My mother cooks for my father
+      - My mom cooks with for father
+    difficulty: 4
+  - _id: '210'
+    es:
+      - Los padres tienen una cuna.
+    en:
+      - The parents have a crib
+      - The parents have a cradle
+      - The fathers have a crib
+      - The fathers have a cradle
+      - The dads have a crib
+      - The dads have a cradle
+    difficulty: 4
+  - _id: '211'
+    es:
+      - El bebé duerme en la cuna
+    en:
+      - The baby sleeps in the crib
+      - The baby sleeps in the cradle
+    difficulty: 4
+  - _id: '212'
+    es:
+      - Es un teléfono
+    en:
+      - It is a phone
+      - It is a telephone
+    difficulty: 4
+  - _id: '213'
+    es:
+      - La cama no es mía
+    en:
+      - The bed is not mine
+    difficulty: 4
+  - _id: '214'
+    es:
+      - La mesa y los platos.
+    en:
+      - The table and the plates
+    difficulty: 4
+  - _id: '215'
+    es:
+      - La piscina no tiene agua
+    en:
+      - The pool doesn't have water
+      - The pool does not have water
+      - The pool has no water
+    difficulty: 4
+  - _id: '216'
+    es:
+      - Él tiene un teléfono rojo
+    en:
+      - He has a red phone
+      - He has a red telephone
+    difficulty: 4
+  - _id: '217'
+    es:
+      - Los niños comen en la mesa
+    en:
+      - The kids eat at the table
+      - The boys eat at the table
+    difficulty: 4
+  - _id: '218'
+    es:
+      - Nuestra cocina es pequeña
+    en:
+      - Our kitchen is small
+      - Our kitchen is little
+    difficulty: 4
