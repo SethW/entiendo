@@ -1439,3 +1439,248 @@ phrases:
       - Our kitchen is small
       - Our kitchen is little
     difficulty: 4
+  - _id: '219'
+    es:
+      - Es febrero
+    en:
+      - It is February
+    difficulty: 4
+  - _id: '220'
+    es:
+      - En un momento
+    en:
+      - In a moment
+      - Just a second
+    difficulty: 4
+  - _id: '221'
+    es:
+      - Semanas y meses
+    en:
+      - Weeks and months
+    difficulty: 4
+  - _id: '222'
+    es:
+      - Hoy es miércoles
+    en:
+      - Today is Wednesday
+    difficulty: 4
+  - _id: '223'
+    es:
+      - Yo a veces cocino la cena
+    en:
+      - Sometimes I cook the dinner
+    difficulty: 4
+  - _id: '224'
+    es:
+      - No como pescado en agosto
+    en:
+      - I don't eat fish in August
+      - I do not eat fish in August
+    difficulty: 4
+  - _id: '225'
+    es:
+      - Agosto y septiembre son meses del año
+    en:
+      - August and September are months of the year
+    difficulty: 4
+  - _id: '226'
+    es:
+      - Él come carne en julio
+    en:
+      - He eats meat in July
+    difficulty: 4
+  - _id: '227'
+    es:
+      - Mañana es miércoles
+    en:
+      - Tomorrow is Wednesday
+    difficulty: 4
+  - _id: '228'
+    es:
+      - La puerta
+    en:
+      - The door
+    difficulty: 4
+  - _id: '229'
+    es:
+      - Veo una lámpara roja
+    en:
+      - I see a red lamp
+    difficulty: 4
+  - _id: '230'
+    es:
+      - Las tazas no son pequeñas
+    en:
+      - The cups are not small
+      - The glasses are not small
+      - The cups are not little
+      - The glasses are not little
+      - The cups are not short
+      - The glasses are not short
+    difficulty: 4
+  - _id: '231'
+    es:
+      - La esponja
+    en:
+      - The sponge
+    difficulty: 4
+  - _id: '232'
+    es:
+      - La cuchara no es grande
+    en:
+      - The spoon is not large
+      - The spoon is not big
+    difficulty: 4
+  - _id: '233'
+    es:
+      - El espejo
+    en:
+      - The mirror
+    difficulty: 4
+  - _id: '234'
+    es:
+      - La puerta es blanca y la ventana es roja
+    en:
+      - The door is white and the window is red
+    difficulty: 4
+  - _id: '235'
+    es:
+      - ¿Quién quiere una taza?
+    en:
+      - Who wants a cup
+    difficulty: 4
+  - _id: '236'
+    es:
+      - Nuestro sofá es amarillo
+    en:
+      - Our couch is yellow
+      - Our sofa is yellow
+    difficulty: 4
+  - _id: '237'
+    es:
+      - ¿Ustedes tienen una televisión?
+    en:
+      - Do you have a television
+      - Do you have a TV
+    difficulty: 4
+  - _id: '238'
+    es:
+      - Nosotros tenemos un espejo
+    en:
+      - We have a mirror
+    difficulty: 4
+  - _id: '239'
+    es:
+      - La lámpara es mía.
+    en:
+      - The lamp is mine
+    difficulty: 4
+  - _id: '240'
+    es:
+      - ¿Tienes tazas?
+    en:
+      - Do you have cups
+    difficulty: 4
+  - _id: '241'
+    es:
+      - Esa mujer es muy bonita, pero es muy joven para él
+    en:
+      - That woman is very beautiful, but is very young for him
+      - That woman is very beautiful, but is too young for him
+      - That woman is very pretty, but is very young for him
+      - That woman is very pretty, but is too young for him
+    difficulty: 7
+  - _id: '242'
+    es:
+      - ¡Estoy bien!
+    en:
+      - I am good
+      - I am fine
+    difficulty: 7
+  - _id: '243'
+    es:
+      - Él come mucho
+    en:
+      - He eats a lot
+    difficulty: 7
+  - _id: '244'
+    es:
+      - Come menos pan
+    en:
+      - Eat less bread
+    difficulty: 7
+  - _id: '245'
+    es:
+      - Ellos son tan fuertes como nosotros
+    en:
+      - They are as strong as us
+    difficulty: 7
+  - _id: '246'
+    es:
+      - Quiero una ventana
+    en:
+      - I want a window
+    difficulty: 7
+  - _id: '247'
+    es:
+      - Este vestido es muy simple
+    en:
+      - This dress is very simple
+    difficulty: 7
+  - _id: '248'
+    es:
+      - Así no
+    en:
+      - Not like that
+    difficulty: 7
+  - _id: '249'
+    es:
+      - Él no es tan alto
+    en:
+      - He is not that tall
+    difficulty: 7
+  - _id: '250'
+    es:
+      - ¿Está Julia aquí?
+    en:
+      - Is julia here?
+    difficulty: 7
+  - _id: '251'
+    es:
+      - Él es sólo un niño
+    en:
+      - He is just a boy
+      - He is just a kid
+      - He is just a child
+    difficulty: 7
+  - _id: '252'
+    es:
+      - Mi tío nunca escribe cartas
+    en:
+      - My uncle never writes letters
+    difficulty: 7
+  - _id: '253'
+    es:
+      - Yo también
+    en:
+      - Me too
+    difficulty: 7
+  - _id: '254'
+    es:
+      - Tú siempre pagas
+    en:
+      - You always pay
+    difficulty: 7
+  - _id: '255'
+    es:
+      - Casi
+    en:
+      - Almost
+    difficulty: 7
+  - _id: '256'
+    es:
+      - Los zapatos ya están viejos.
+    en:
+      - The shoes are already old
+      - The shoes are old already
+    difficulty: 7
