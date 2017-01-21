@@ -16,6 +16,8 @@ Template.question.helpers({
     }
   },
   invokeAfterLoad(){
+    $('.phrase .current-phrase').addClass('hidden');
+    $('.phrase .show-phrase').removeClass('hidden');
     setTimeout(function(){
       $('#listenPhrase').click();
       //responsiveVoice.speak(Session.get('phraseOptions')[Session.get('phraseVersion')], "Spanish Latin American Female", {rate: 1});
@@ -47,7 +49,11 @@ Template.question.events({
     var listener = document.querySelector('#recognition-element');
     listener.stop();
     var $this = $(eve.currentTarget);
-    responsiveVoice.speak($this.attr('data-text'), "Spanish Latin American Female", {rate: 1});
+    var rate = Session.get('speechRate');
+    if(!rate){
+      rate = 1;
+    }
+    responsiveVoice.speak($this.attr('data-text'), "Spanish Latin American Female", {rate: rate});
 
   },
   'submit #translateForm': function(eve, instance) {
@@ -56,10 +62,11 @@ Template.question.events({
     var translatedText = $this.find('#translateInput').val();
     var phraseId = $this.find('#phraseId').val();
 
-    var isSpecialCommand = new RegExp('(set difficulty)|(set the difficulty)|(say again)|(say that again)|(say it again)',"gi");
+    var isSpecialCommand = new RegExp('(set difficulty)|(set the difficulty)|(say again)|(say that again)|(say it again)|(set rate)|(set the rate)',"gi");
     if(isSpecialCommand.test(translatedText)){ // Special command
       var isDifficulty = new RegExp('(set difficulty)|(set the difficulty)',"gi");
       var isRepeat = new RegExp('(say again)|(say that again)|(say it again)',"gi");
+      var isRate = new RegExp('(set rate)|(set the rate)',"gi");
 
       if(isDifficulty.test(translatedText)){ // Change difficulty
         $this.find('#translateInput').val('');
@@ -68,6 +75,10 @@ Template.question.events({
       }else if(isRepeat.test(translatedText)){ // Say again
         $this.find('#translateInput').val('');
         $('#listenPhrase').click();
+      }else if(isRate.test(translatedText)){ // Set rate
+        $this.find('#translateInput').val('');
+        var getRate = new RegExp('[0-9]+.{0,1}[0-9]+',"gi");
+        Session.set('speechRate', translatedText.match(/[0-9]+.{0,1}[0-9]+/gi)[0]);
       }
     }else{
 
