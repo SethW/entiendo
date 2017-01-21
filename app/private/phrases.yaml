@@ -1684,3 +1684,236 @@ phrases:
       - The shoes are already old
       - The shoes are old already
     difficulty: 7
+  - _id: '257'
+    es:
+      - Ellos no tienen tanto
+    en:
+      - They do not have so much
+      - They don't have so much
+    difficulty: 7
+  - _id: '258'
+    es:
+      - ¿Y entonces?
+    en:
+      - And then
+    difficulty: 7
+  - _id: '259'
+    es:
+      - Nosotros leemos el libro ahora
+    en:
+      - We read the book now
+    difficulty: 7
+  - _id: '260'
+    es:
+      - El poeta camina despacio
+    en:
+      - The poet walks slowly
+    difficulty: 7
+  - _id: '261'
+    es:
+      - Él sabe donde está
+    en:
+      - He knows where it is
+    difficulty: 7
+  - _id: '262'
+    es:
+      - Antes y después
+    en:
+      - Before and after
+    difficulty: 7
+  - _id: '263'
+    es:
+      - ¡Además el caballo es mío!
+    en:
+      - Besides the horse is mine
+    difficulty: 7
+  - _id: '264'
+    es:
+      - Hasta pronto
+    en:
+      - See you soon
+    difficulty: 7
+  - _id: '265'
+    es:
+      - Tú aún puedes
+    en:
+      - You still can
+    difficulty: 7
+  - _id: '266'
+    es:
+      - Ella está allí
+    en:
+      - She is there
+    difficulty: 7
+  - _id: '267'
+    es:
+      - Gracias y hasta luego
+    en:
+      - Thanks and see you later
+    difficulty: 7
+  - _id: '268'
+    es:
+      - ¡Mi cuchara es demasiado grande!
+    en:
+      - My spoon is too big
+    difficulty: 7
+  - _id: '269'
+    es:
+      - Mi hija es todavía una niña.
+    en:
+      - My daughter is still a girl
+      - My daughter is still a child
+      - My daughter is still a kid
+    difficulty: 7
+  - _id: '270'
+    es:
+      - Ellos duermen allí
+    en:
+      - They sleep there
+    difficulty: 7
+  - _id: '271'
+    es:
+      - Él aún está en cama
+    en:
+      - He still is in bed
+      - He is still in bed
+    difficulty: 7
+  - _id: '272'
+    es:
+      - Buen día, y hasta pronto
+    en:
+      - Good day and see you soon
+      - Have a good day and see you soon
+    difficulty: 7
+  - _id: '273'
+    es:
+      - Ella es aún más bonita
+    en:
+      - She is even more beautiful
+    difficulty: 7
+  - _id: '274'
+    es:
+      - Muy lejos
+    en:
+      - Very far
+    difficulty: 7
+  - _id: '275'
+    es:
+      - Finalmente es viernes.
+    en:
+      - Finally it is Friday
+    difficulty: 7
+  - _id: '276'
+    es:
+      - ¡Por supuesto!
+    en:
+      - Of course
+    difficulty: 7
+  - _id: '277'
+    es:
+      - En general como carne
+    en:
+      - I generally eat meat
+      - In general I eat meat
+    difficulty: 7
+  - _id: '278'
+    es:
+      - ¿Duermes bastante?
+    en:
+      - Do you sleep a lot
+    difficulty: 7
+  - _id: '279'
+    es:
+      - Ustedes escriben especialmente para nosotras
+    en:
+      - You write especially for us
+    difficulty: 7
+  - _id: '280'
+    es:
+      - Quizá es jugo
+    en:
+      - Perhaps it is juice
+    difficulty: 7
+  - _id: '281'
+    es:
+      - Ella mira alrededor
+    en:
+      - She looks around
+    difficulty: 7
+  - _id: '282'
+    es:
+      - Es totalmente blanca
+    en:
+      - It is totally white
+      - It is completely white
+    difficulty: 7
+  - _id: '283'
+    es:
+      - Tengo solamente un hermano
+    en:
+      - I only have a brother
+      - I only have one brother
+    difficulty: 7
+  - _id: '284'
+    es:
+      - Él habla realmente bien
+    en:
+      - He talks really well
+      - He speaks really well
+    difficulty: 7
+  - _id: '285'
+    es:
+      - Mi hermano jamás bebe
+    en:
+      - My brother never drinks
+    difficulty: 7
+  - _id: '286'
+    es:
+      - Eres simplemente bonita
+    en:
+      - You are simply beautiful
+    difficulty: 7
+  - _id: '287'
+    es:
+      - Es totalmente imposible.
+    en:
+      - It is completely impossible
+      - It is totally impossible
+    difficulty: 7
+  - _id: '288'
+    es:
+      - Él jamás corre
+    en:
+      - He never runs
+    difficulty: 7
+  - _id: '289'
+    es:
+      - Es solamente un segundo
+    en:
+      - It is only a second
+    difficulty: 7
+  - _id: '290'
+    es:
+      - Es totalmente normal
+    en:
+      - It is completely normal
+      - It is totally normal
+    difficulty: 7
+  - _id: '291'
+    es:
+      - Es simplemente demasiado
+    en:
+      - It is simply too much
+    difficulty: 7
+  - _id: '292'
+    es:
+      - Este libro es realmente viejo
+    en:
+      - This book is really old
+    difficulty: 7
+  - _id: '293'
+    es:
+      - Ellos no son hombres tradicionales
+    en:
+      - They are not traditional men
+    difficulty: 7

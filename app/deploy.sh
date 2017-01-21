@@ -11,4 +11,4 @@ cd bundle/programs/server
 sudo npm install
 cd ../..
 forever stop main.js
-METEOR_SETTINGS=$(cat ../../app/settings.json) ROOT_URL='http://entiendo.dynu.com' PORT=3000 forever start main.js
+METEOR_SETTINGS=$(cat ../../app/settings.json) ROOT_URL='http://entiendo.dynu.com' MONGO_URL='mongodb://entiendo:entiendo@ds117889.mlab.com:17889/entiendo' PORT=3000 forever start main.js
