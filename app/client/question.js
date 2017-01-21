@@ -3,7 +3,6 @@ Template.question.helpers({
     var phraseVersion = Helpers.randomInt(0,phraseOptions.length-1);
     Session.set('phraseVersion', phraseVersion);
     Session.set('phraseOptions', phraseOptions);
-    console.log(phraseOptions[phraseVersion]);
   },
   getPhrase(phraseOptions){
     return phraseOptions[Session.get('phraseVersion')];
@@ -18,7 +17,7 @@ Template.question.helpers({
   },
   invokeAfterLoad(){
     setTimeout(function(){
-      console.log($('#listenPhrase').click());
+      $('#listenPhrase').click();
       //responsiveVoice.speak(Session.get('phraseOptions')[Session.get('phraseVersion')], "Spanish Latin American Female", {rate: 1});
 
       var listener = document.querySelector('#recognition-element');
@@ -40,6 +39,9 @@ Template.question.helpers({
 });
 
 Template.question.events({
+  'click .show-phrase': function (eve, instance){
+    $('.phrase h4').toggleClass('hidden');
+  },
   'click #listenPhrase': function (eve, instance){
     eve.preventDefault();
     var listener = document.querySelector('#recognition-element');
