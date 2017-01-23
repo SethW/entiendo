@@ -1917,3 +1917,27 @@ phrases:
     en:
       - They are not traditional men
     difficulty: 7
+  - _id: '294'
+    es:
+      - Es prácticamente imposible
+    en:
+      - It is practically impossible
+    difficulty: 7
+  - _id: '295'
+    es:
+      - Nosotros pagamos inmediatamente
+    en:
+      - We pay immediately
+    difficulty: 7
+  - _id: '296'
+    es:
+      - Él probablemente llega hoy
+    en:
+      - He probably arrives today
+    difficulty: 7
+  - _id: '297'
+    es:
+      - Quizás porque no veo bien
+    en:
+      - He probably arrives today
+    difficulty: 7
